@@ -5,7 +5,8 @@
 "2 years to 3 years": 1.5,
 "3 years to 5 years": 1.25,
 "5 years to 10 years": 1.1,
-"Over 10 years": 1.0
+"10 year to 15 years": 1.0,
+"Over 15 years": 1.0
 },
 {
 "Less than 1 year": 2.0,
@@ -13,6 +14,7 @@
 "2 years to 3 years": 1.5,
 "3 years to 5 years": 1.25,
 "5 years to 10 years": 1.1,
-"Over 10 years": 1.0
+"10 year to 15 years": 1.0,
+"Over 15 years": 1.0
 }
 ]
